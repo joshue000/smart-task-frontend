@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "tasksMf/Routes": ["tasksMf/src/app/remote-entry/entry.routes.ts"],
+      "@smart-taks-frontend/shared-ui": ["shared-ui/src/index.ts"],
+      "@smart-taks-frontend/shared-stated": ["shared-stated/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
