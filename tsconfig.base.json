@@ -15,9 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "tasksMf/Routes": ["tasksMf/src/app/remote-entry/entry.routes.ts"],
-      "@smart-taks-frontend/shared-ui": ["shared-ui/src/index.ts"],
-      "@smart-taks-frontend/shared-stated": ["shared-stated/src/index.ts"]
+      "tasksMf/Routes": ["apps/tasksMf/src/app/remote-entry/entry.routes.ts"],
+      "@smart-taks-frontend/shared-ui": ["libs/shared-ui/src/index.ts"],
+      "@smart-taks-frontend/shared-stated": ["libs/shared-stated/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

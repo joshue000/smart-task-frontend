@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "logo": "Smart Tasks",
+    "home": "Home",
+    "tasks": "Tasks"
+  },
+  "home": {
+    "title": "Smart Tasks",
+    "subtitle": "Intelligent Task Manager",
+    "description": "Organize, manage and complete your tasks efficiently with our modern and scalable platform.",
+    "cta": "Get Started",
+    "features": {
+      "fast": {
+        "title": "Fast and Efficient",
+        "description": "Microfrontend architecture for maximum performance"
+      },
+      "realtime": {
+        "title": "Real Time",
+        "description": "Instant updates with WebSockets"
+      },
+      "smart": {
+        "title": "Smart Management",
+        "description": "Organize your tasks with reactive state using NgRx and Signals"
+      }
+    }
+  }
+}

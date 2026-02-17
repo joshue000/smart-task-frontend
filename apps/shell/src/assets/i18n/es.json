@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "logo": "Smart Tasks",
+    "home": "Inicio",
+    "tasks": "Tareas"
+  },
+  "home": {
+    "title": "Smart Tasks",
+    "subtitle": "Administrador de Tareas Inteligente",
+    "description": "Organiza, gestiona y completa tus tareas de manera eficiente con nuestra plataforma moderna y escalable.",
+    "cta": "Comenzar",
+    "features": {
+      "fast": {
+        "title": "Rápido y Eficiente",
+        "description": "Arquitectura de microfrontends para máximo rendimiento"
+      },
+      "realtime": {
+        "title": "Tiempo Real",
+        "description": "Actualizaciones instantáneas con WebSockets"
+      },
+      "smart": {
+        "title": "Gestión Inteligente",
+        "description": "Organiza tus tareas con estado reactivo usando NgRx y Signals"
+      }
+    }
+  }
+}
